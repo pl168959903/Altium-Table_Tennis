@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=AVDD Pin=J2-15
+Removed Pin From Net: NetName=buzzer Pin=J2-16
+Removed Pin From Net: NetName=PC6 Pin=J2-17
+Removed Pin From Net: NetName=PC15 Pin=J2-18
+Removed Pin From Net: NetName=PC14 Pin=J2-19
+Removed Pin From Net: NetName=RESET Pin=J2-20
+Removed Pin From Net: NetName=UART_0_RX Pin=J2-21
+Removed Pin From Net: NetName=UART_0_TX Pin=J2-22
+Removed Pin From Net: NetName=GND Pin=J2-25
+Added Pin To Net: NetName=GND Pin=J2-15
+Added Pin To Net: NetName=ADC_ONOFF Pin=J2-16
+Added Pin To Net: NetName=AVDD Pin=J2-17
+Added Pin To Net: NetName=buzzer Pin=J2-18
+Added Pin To Net: NetName=PC6 Pin=J2-19
+Added Pin To Net: NetName=PC15 Pin=J2-20
+Added Pin To Net: NetName=PC14 Pin=J2-21
+Added Pin To Net: NetName=RESET Pin=J2-22

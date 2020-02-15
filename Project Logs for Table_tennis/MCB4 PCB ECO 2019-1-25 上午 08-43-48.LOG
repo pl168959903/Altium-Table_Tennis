@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=J1-
+Removed Pin From Net: NetName=GND Pin=J1-
+Removed Pin From Net: NetName=GND Pin=J2-
+Removed Pin From Net: NetName=GND Pin=J2-
+Removed Pin From Net: NetName=GND Pin=SB1-
+Removed Pin From Net: NetName=GND Pin=SB1-
+Removed Pin From Net: NetName=GND Pin=SB1-
+Removed Pin From Net: NetName=GND Pin=SB1-
+Removed Pin From Net: NetName=GND Pin=X1-
+Removed Pin From Net: NetName=GND Pin=X1-
+Added Component: Designator=J3(FPC0.5-12PS)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=SW_EN2 Pin=J3-2
+Added Pin To Net: NetName=SW_EN1 Pin=J3-3
+Added Pin To Net: NetName=DVBUS Pin=J3-4
+Added Pin To Net: NetName=AVDD Pin=J3-7
+Added Pin To Net: NetName=LED1 Pin=J3-8
+Added Pin To Net: NetName=LED2 Pin=J3-9
+Added Pin To Net: NetName=LED3 Pin=J3-10
+Added Pin To Net: NetName=LED4 Pin=J3-11
+Added Pin To Net: NetName=button Pin=J3-12
+Added Pin To Net: NetName=NetJ3_5 Pin=J3-5
+Added Pin To Net: NetName=NetJ3_5 Pin=R1-2
+Added Net: Name=NetJ3_5
+Added Pin To Net: NetName=NetJ3_6 Pin=J3-6
+Added Pin To Net: NetName=NetJ3_6 Pin=R2-2
+Added Net: Name=NetJ3_6

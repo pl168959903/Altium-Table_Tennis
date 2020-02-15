@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=ADC_ONOFF Pin=D-1
+Removed Pin From Net: NetName=Vref Pin=D-2
+Removed Pin From Net: NetName=Vref Pin=D-3
+Added Component: Designator=D?(SOT-23)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Vref Pin=D?-1
+Added Pin To Net: NetName=Vref Pin=D?-2

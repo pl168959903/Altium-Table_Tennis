@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Table_tennis.PrjPcb]
+   Generated File[MCB.TXT]
+   Generated File[MCB.LDP]
+   Generated File[MCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At ¤W¤È 01:42:21 On 2019/1/22

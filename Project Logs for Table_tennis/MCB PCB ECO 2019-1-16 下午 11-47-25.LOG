@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NRF_IRQ Pin=U1-1
+Removed Pin From Net: NetName=MPU_INT Pin=U1-57
+Added Pin To Net: NetName=MPU_INT Pin=U1-1
+Added Pin To Net: NetName=NRF_IRQ Pin=U1-57

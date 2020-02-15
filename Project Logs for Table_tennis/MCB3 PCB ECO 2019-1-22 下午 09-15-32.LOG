@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=DVBUS Pin=P2-4
+Removed Pin From Net: NetName=NetP2_3 Pin=R9-2
+Removed Pin From Net: NetName=GND Pin=SB3-
+Removed Pin From Net: NetName=GND Pin=SB3-
+Removed Pin From Net: NetName=GND Pin=SB3-
+Removed Pin From Net: NetName=GND Pin=SB3-
+Added Pin To Net: NetName=DVBUS Pin=P2-2
+Added Pin To Net: NetName=NetP2_3 Pin=R8-2
+Added Pin To Net: NetName=NetP2_4 Pin=P2-4
+Added Pin To Net: NetName=NetP2_4 Pin=R9-2
+Added Net: Name=NetP2_4

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=J1-
+Removed Pin From Net: NetName=GND Pin=J1-
+Removed Pin From Net: NetName=AVDD Pin=J2-14
+Removed Pin From Net: NetName=buzzer Pin=J2-15
+Removed Pin From Net: NetName=GND Pin=MPU-1-25
+Added Pin To Net: NetName=buzzer Pin=J2-14
+Added Pin To Net: NetName=PC6 Pin=U1-54
+Added Net: Name=PC6
+Added Pin To Net: NetName=PC14 Pin=U1-56
+Added Net: Name=PC14
+Added Pin To Net: NetName=PC15 Pin=U1-55
+Added Net: Name=PC15

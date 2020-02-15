@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=V_BAT Pin=R19-1
+Removed Pin From Net: NetName=V_BAT Pin=TP1-1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=TP1-1
+Added Net: Name=NetR19_1

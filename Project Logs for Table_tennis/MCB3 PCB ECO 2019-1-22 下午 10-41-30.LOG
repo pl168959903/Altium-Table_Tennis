@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=MPU-9250-25
+Removed Pin From Net: NetName=GND Pin=SB3-
+Removed Pin From Net: NetName=GND Pin=SB3-
+Removed Pin From Net: NetName=GND Pin=SB3-
+Removed Pin From Net: NetName=GND Pin=SB3-
+Removed Pin From Net: NetName=ADC_ONOFF Pin=U1-53
+Added Pin To Net: NetName=ADC_ONOFF Pin=U1-12

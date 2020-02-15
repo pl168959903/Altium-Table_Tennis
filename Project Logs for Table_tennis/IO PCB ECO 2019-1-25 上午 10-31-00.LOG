@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=V_USB Pin=P1-2
+Removed Pin From Net: NetName=D+ Pin=P1-3
+Removed Pin From Net: NetName=D- Pin=P1-4
+Removed Pin From Net: NetName=VCC Pin=P1-5
+Removed Pin From Net: NetName=LED1 Pin=P1-6
+Removed Pin From Net: NetName=LED2 Pin=P1-7
+Removed Pin From Net: NetName=LED3 Pin=P1-8
+Removed Pin From Net: NetName=LED4 Pin=P1-9
+Removed Pin From Net: NetName=button Pin=P1-10
+Removed Pin From Net: NetName=GND Pin=USB1-4
+Change Component Footprint: Designator=LED1 Old Footprint=LED_3mm_DIP New Footprint=SMD-0603_LED
+Change Component Footprint: Designator=LED2 Old Footprint=LED_3mm_DIP New Footprint=SMD-0603_LED
+Change Component Footprint: Designator=LED3 Old Footprint=LED_3mm_DIP New Footprint=SMD-0603_LED
+Change Component Footprint: Designator=LED4 Old Footprint=LED_3mm_DIP New Footprint=SMD-0603_LED
+Change Component Designator: OldDesignator=C1 NewDesignator=C18
+Change Component Designator: OldDesignator=R1 NewDesignator=R19
+Change Component Designator: OldDesignator=R2 NewDesignator=R20
+Change Component Designator: OldDesignator=R3 NewDesignator=R21
+Change Component Designator: OldDesignator=R4 NewDesignator=R22
+Change Component Designator: OldDesignator=SB1 NewDesignator=SB3
+Added Component: Designator=J4(FPC0.5-12PS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB2(Slide_switch 3.5*8.5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=button Pin=J4-1
+Added Pin To Net: NetName=LED4 Pin=J4-2
+Added Pin To Net: NetName=LED3 Pin=J4-3
+Added Pin To Net: NetName=LED2 Pin=J4-4
+Added Pin To Net: NetName=LED1 Pin=J4-5
+Added Pin To Net: NetName=VCC Pin=J4-6
+Added Pin To Net: NetName=D- Pin=J4-7
+Added Pin To Net: NetName=D+ Pin=J4-8
+Added Pin To Net: NetName=V_USB Pin=J4-11
+Added Pin To Net: NetName=GND Pin=J4-12
+Added Pin To Net: NetName=SW_EN1 Pin=J4-9
+Added Pin To Net: NetName=SW_EN1 Pin=SB2-2
+Added Net: Name=SW_EN1
+Added Pin To Net: NetName=SW_EN2 Pin=J4-10
+Added Pin To Net: NetName=SW_EN2 Pin=SB2-3
+Added Net: Name=SW_EN2
